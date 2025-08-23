@@ -16,7 +16,7 @@ string inputf(){
   cout << "Modulus              : %" << endl;
   cout << "Absolute Value       : ||" << endl;
   cout << "Exponential Function : **" << endl;
-  cout << "Square Root : sqrt" << endl << endl << endl;  
+  cout << "Square Root          : sqrt" << endl << endl << endl;  
   cout << "Enter the operator to be executed : ";
   string o;
   cin >> o;

@@ -116,7 +116,7 @@ int main(){
 }
 
 
-// Turned previous operators + / - / * / /
+// Turned previous operators + / - / * / /  into functions;
 // Added new operators as modules
 // New operators 
 // % - modulus
@@ -126,7 +126,7 @@ int main(){
 
 
 
-
+// Notes V1.10
 // next version will try to add a loop
 // maybe a one iteration long memory 
 // or a vector for a longer memory ...... but how to call back in vector?
